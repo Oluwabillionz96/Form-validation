@@ -9,6 +9,7 @@
     height: 100vh;
     background-image: url("./assets/bg-intro-desktop.png");
     background-color: hsl(0, 100%, 74%);
+    font-family: "Poppins", sans-serif;
   }
   
   .container {
